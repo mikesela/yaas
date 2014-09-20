@@ -1,6 +1,6 @@
 Overview:
 
-  This is an auth and item server for an online game. It provides APIs enabling a game to register and manage servers and then add inventory to game users.
+  This is an auth and item server that uses Google App Engine designed for an online game. It provides APIs enabling a game to register and manage servers and then add inventory to game users. 
 
   Here is the list of supported APIs:
       /user/create
